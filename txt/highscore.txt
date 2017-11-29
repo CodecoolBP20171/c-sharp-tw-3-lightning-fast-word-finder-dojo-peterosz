@@ -1,0 +1,4 @@
+YOUR NAME Runs: 1000 Score: 3.3177225
+Peti Runs: 1000 Score: 119.5666387
+Peti Runs: 1000 Score: 124.0945174
+Peti Runs: 1000 Score: 93.7231846
